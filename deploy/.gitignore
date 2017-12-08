@@ -1,0 +1,27 @@
+# ----- JAVA -----
+*.class
+target/
+*.meta/
+*.settings/
+*.classpath
+bin/
+.metadata
+.project
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Text Files #
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+
+# Exec Files #
+*.exe
+*.dll
