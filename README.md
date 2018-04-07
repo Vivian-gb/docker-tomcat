@@ -1,4 +1,5 @@
 # docker-tomcat
+
 # to build image in case it is not on docker hub. The command must be run in the same folder that Dockerfile is.
 docker build -t viviangb/tomcat .
 
